@@ -1,0 +1,15 @@
+C:\Users\LARTE GAMER\source\repos\TalyCap\TalyCap.Abstraction\bin\Debug\net5.0\TalyCap.Abstraction.deps.json
+C:\Users\LARTE GAMER\source\repos\TalyCap\TalyCap.Abstraction\bin\Debug\net5.0\TalyCap.Abstraction.runtimeconfig.json
+C:\Users\LARTE GAMER\source\repos\TalyCap\TalyCap.Abstraction\bin\Debug\net5.0\TalyCap.Abstraction.runtimeconfig.dev.json
+C:\Users\LARTE GAMER\source\repos\TalyCap\TalyCap.Abstraction\bin\Debug\net5.0\TalyCap.Abstraction.dll
+C:\Users\LARTE GAMER\source\repos\TalyCap\TalyCap.Abstraction\bin\Debug\net5.0\ref\TalyCap.Abstraction.dll
+C:\Users\LARTE GAMER\source\repos\TalyCap\TalyCap.Abstraction\bin\Debug\net5.0\TalyCap.Abstraction.pdb
+C:\Users\LARTE GAMER\source\repos\TalyCap\TalyCap.Abstraction\obj\Debug\net5.0\TalyCap.Abstraction.csprojAssemblyReference.cache
+C:\Users\LARTE GAMER\source\repos\TalyCap\TalyCap.Abstraction\obj\Debug\net5.0\TalyCap.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LARTE GAMER\source\repos\TalyCap\TalyCap.Abstraction\obj\Debug\net5.0\TalyCap.Abstraction.AssemblyInfoInputs.cache
+C:\Users\LARTE GAMER\source\repos\TalyCap\TalyCap.Abstraction\obj\Debug\net5.0\TalyCap.Abstraction.AssemblyInfo.cs
+C:\Users\LARTE GAMER\source\repos\TalyCap\TalyCap.Abstraction\obj\Debug\net5.0\TalyCap.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\LARTE GAMER\source\repos\TalyCap\TalyCap.Abstraction\obj\Debug\net5.0\TalyCap.Abstraction.dll
+C:\Users\LARTE GAMER\source\repos\TalyCap\TalyCap.Abstraction\obj\Debug\net5.0\ref\TalyCap.Abstraction.dll
+C:\Users\LARTE GAMER\source\repos\TalyCap\TalyCap.Abstraction\obj\Debug\net5.0\TalyCap.Abstraction.pdb
+C:\Users\LARTE GAMER\source\repos\TalyCap\TalyCap.Abstraction\obj\Debug\net5.0\TalyCap.Abstraction.genruntimeconfig.cache
